@@ -1,0 +1,17 @@
+# 构建产物
+dist/
+build/temp/
+*.spec
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.old
+
+# 日志 / 本地数据
+*.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
